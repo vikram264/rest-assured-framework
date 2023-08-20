@@ -1,0 +1,5 @@
+An adaptable RestAssured framework, drawn from a practical microservices context featuring CRUD operations support.
+The framework also includes demonstrations for Kafka message publishing and consumption – a prevalent pattern in modern applications.
+
+## How To Run
+mvn clean install

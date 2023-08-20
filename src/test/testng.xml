@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="APIAutomationTestSuite">
+
+    <test name="APITest">
+        <classes>
+            <class name="product.api.APITestSuite" />
+            <class name="product.kafka.TestKafka" />
+        </classes>
+    </test>
+
+</suite>
